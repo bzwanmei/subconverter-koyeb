@@ -149,7 +149,7 @@ advanced:
   max_allowed_rules: 0
   max_allowed_download_size: 0
   enable_cache: true
-  cache_subscription: 0
+  cache_subscription: 60
   cache_config: 300
   cache_ruleset: 21600
   script_clean_context: true
