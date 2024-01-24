@@ -4,7 +4,7 @@ version = 1
 api_mode = true
 
 # Access token used for performing critical action through Web interface
-api_access_token = "d278e488b2508192b67dcacf78340a21"
+api_access_token = "ceshiceshi"
 
 # Default URLs, used when no URL is provided in request, use "|" to separate multiple subscription links, supports local files/URL
 default_url = []
